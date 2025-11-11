@@ -1,0 +1,2 @@
+# Zero Trust Simulation Dependencies
+# This project uses only Python standard library - no external dependencies needed
